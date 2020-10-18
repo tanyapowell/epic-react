@@ -17,11 +17,13 @@
 
 
 <body>
-  <div id="root"></div>
   <script type="module">
+    const root = document.createElement('div');
+    document.body.append(root);
+
     const text = document.createElement('div');
     text.textContent = "Hello Ms Powell";
-    const root = document.getElementById('root');
+    
     root.append(text)
   </script>
 </body>
