@@ -3,8 +3,9 @@
 All the exercises and docs created during Kent C Dodd's Epic React course
 
 - [Fundamentals](#Fundamentals)
-  * [Exercise 1: Hello World](#Hello-World)
-  * [Exercise 2: Intro to Raw React APIs](#Intro-to-Raw-React-APIs)
+  - [Exercise 1: Hello World](#Hello-World)
+  - [Exercise 2: Intro to Raw React APIs](#Intro-to-Raw-React-APIs)
+  - [Exercise 3: Using JSX](#Using-JSX)
 
 ## Fundamentals
 
@@ -22,7 +23,7 @@ All code is written in a single HTML file.
 
 ### Intro to Raw React APIs
 
-[HTML](https://github.com/tanyapowell/epic-react/blob/main/react-fundamentals/src/exercise/01.html)
+[HTML](https://github.com/tanyapowell/epic-react/blob/main/react-fundamentals/src/exercise/02.html)
 
 Using the `React.createElement` method to create nodes and append them to the DOM.
 
@@ -42,3 +43,16 @@ Nesting elements using `React.createElement` to produce the following DOM output
   </div>
 </body>
 ```
+
+### Using JSX
+
+[HTML](https://github.com/tanyapowell/epic-react/blob/main/react-fundamentals/src/exercise/03.html)
+
+Creating a single `<div>` using JSX instead of `React.createElement`
+
+All code is written in a single HTML file.
+
+#### Extra Credit
+
+1. Interpolating props and children
+2. Spreading the props
