@@ -8,6 +8,7 @@ All the exercises and docs created during Kent C Dodd's Epic React course
   - [Exercise 3: Using JSX](#Using-JSX)
   - [Exercise 4: Creating custom components](#Creating-custom-components)
   - [Exercise 5: Styling components](#Styling-components)
+  - [Exercise 6: Forms](#Forms)
 
 ## Fundamentals
 
@@ -19,7 +20,7 @@ Going back to the beginning and learning/re-learning the fundamentals of React.
 
 [Exercise Files](https://github.com/tanyapowell/epic-react/blob/main/react-fundamentals/src/exercise/01.html)
 
-Old skool vanilla JS. Creating nodes and appending to the DOM. 
+Old skool vanilla JS. Creating nodes and appending to the DOM.
 
 All code is written in a single HTML file.
 
@@ -84,3 +85,15 @@ All code is written in a single HTML file.
 [Exercise Files](https://github.com/tanyapowell/epic-react/blob/main/react-fundamentals/src/exercise/05.js)
 
 Inline styling of components and regular CSS with the `className` prop
+
+All code is written in a single JS file.
+
+### Forms
+
+[Exercise Files](https://github.com/tanyapowell/epic-react/blob/main/react-fundamentals/src/exercise/06.js)
+
+All code is written in a single JS file.
+
+1. `Refs`
+
+2. Validation
