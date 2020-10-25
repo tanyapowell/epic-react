@@ -15,7 +15,7 @@ Going back to the beginning and learning/re-learning the fundamentals of React.
 
 ### Hello World
 
-[HTML](https://github.com/tanyapowell/epic-react/blob/main/react-fundamentals/src/exercise/01.html)
+[Exercise Files](https://github.com/tanyapowell/epic-react/blob/main/react-fundamentals/src/exercise/01.html)
 
 Old skool vanilla JS. Creating nodes and appending to the DOM. 
 
@@ -23,7 +23,7 @@ All code is written in a single HTML file.
 
 ### Intro to Raw React APIs
 
-[HTML](https://github.com/tanyapowell/epic-react/blob/main/react-fundamentals/src/exercise/02.html)
+[Exercise Files](https://github.com/tanyapowell/epic-react/blob/main/react-fundamentals/src/exercise/02.html)
 
 Using the `React.createElement` method to create nodes and append them to the DOM.
 
@@ -46,7 +46,7 @@ Nesting elements using `React.createElement` to produce the following DOM output
 
 ### Using JSX
 
-[HTML](https://github.com/tanyapowell/epic-react/blob/main/react-fundamentals/src/exercise/03.html)
+[Exercise Files](https://github.com/tanyapowell/epic-react/blob/main/react-fundamentals/src/exercise/03.html)
 
 Creating a single `<div>` using JSX instead of `React.createElement`
 
@@ -56,3 +56,23 @@ All code is written in a single HTML file.
 
 1. Interpolating props and children
 2. Spreading the props
+
+### Creating custom components
+
+[Exercise Files](https://github.com/tanyapowell/epic-react/blob/main/react-fundamentals/src/exercise/04.html)
+
+Creating a custom reusable React component
+
+All code is written in a single HTML file.
+
+#### Extra Credit
+
+1. Creating the component using `React.createElement`
+
+2. Creating the component using JSX
+
+3. Runtime validation with PropTypes
+
+4. Using the prop-types package
+
+5. Using React Fragments
