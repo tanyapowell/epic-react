@@ -6,6 +6,8 @@ All the exercises and docs created during Kent C Dodd's Epic React course
   - [Exercise 1: Hello World](#Hello-World)
   - [Exercise 2: Intro to Raw React APIs](#Intro-to-Raw-React-APIs)
   - [Exercise 3: Using JSX](#Using-JSX)
+  - [Exercise 4: Creating custom components](#Creating-custom-components)
+  - [Exercise 5: Styling components](#Styling-components)
 
 ## Fundamentals
 
@@ -76,3 +78,9 @@ All code is written in a single HTML file.
 4. Using the prop-types package
 
 5. Using React Fragments
+
+### Styling components
+
+[Exercise Files](https://github.com/tanyapowell/epic-react/blob/main/react-fundamentals/src/exercise/05.js)
+
+Inline styling of components and regular CSS with the `className` prop
