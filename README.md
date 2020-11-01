@@ -9,6 +9,8 @@ All the exercises and docs created during Kent C Dodd's Epic React course
   - [Exercise 4: Creating custom components](#Creating-custom-components)
   - [Exercise 5: Styling components](#Styling-components)
   - [Exercise 6: Forms](#Forms)
+- [Hooks](#Hooks) 
+  - [Exercise 1: Use State](#Use-State)
 
 ## Fundamentals
 
@@ -97,3 +99,13 @@ All code is written in a single JS file.
 1. `Refs`
 
 2. Validation
+
+## Hooks
+
+### Use State
+
+[Exercise Files](https://github.com/tanyapowell/epic-react/blob/main/react-hooks/src/exercise/01.js)
+
+Basic exercise to use the `useState` hook to store a name in state
+
+All code is written in a single JS file.
